@@ -202,6 +202,7 @@ body{
     font-size: 1.56rem;
     margin: 30px 0 5px;
     text-align: center;
+    color: white;
   }
   .carousel .card span {
     color: #0b86a2;
@@ -388,6 +389,31 @@ footer{
   letter-spacing: 0.5px;
   font-weight: 400;
   margin: 0px 5px;
+}
+
+.Oname h3{
+  color:#d4b416;
+  text-align: center;
+  padding-bottom:2% ;
+  padding-top: 4%;
+}
+
+.Oname{
+  text-align: center;
+  width: 100%;
+}
+
+.Oname p{
+  color: white;
+  margin: 0 3%;
+}
+
+footer h2{
+  text-align: center;
+  text-shadow: 0 0 5px #ffa500, 0 0 15px #ffa500, 0 0 20px #ffa500, 0 0 40px #ffa500, 0 0 60px #ff0000, 0 0 10px #ff8d00, 0 0 98px #ff0000;
+  color: #fff6a9;
+  padding: 3% 0;
+  text-transform: uppercase;
 }
 
 #stars {
